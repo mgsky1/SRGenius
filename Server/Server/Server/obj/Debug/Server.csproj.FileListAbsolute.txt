@@ -1,0 +1,6 @@
+E:\My Application\RSGeniusConsole\Server\Server\Server\bin\Debug\Server.exe.config
+E:\My Application\RSGeniusConsole\Server\Server\Server\bin\Debug\Server.exe
+E:\My Application\RSGeniusConsole\Server\Server\Server\bin\Debug\Server.pdb
+E:\My Application\RSGeniusConsole\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\My Application\RSGeniusConsole\Server\Server\Server\obj\Debug\Server.exe
+E:\My Application\RSGeniusConsole\Server\Server\Server\obj\Debug\Server.pdb

@@ -1,0 +1,8 @@
+E:\My Application\RSGeniusConsole\Client\Client\Client\bin\Debug\Client.exe.config
+E:\My Application\RSGeniusConsole\Client\Client\Client\bin\Debug\Client.exe
+E:\My Application\RSGeniusConsole\Client\Client\Client\bin\Debug\Client.pdb
+E:\My Application\RSGeniusConsole\Client\Client\Client\obj\Debug\Client.exe
+E:\My Application\RSGeniusConsole\Client\Client\Client\obj\Debug\Client.pdb
+E:\My Application\SRGeniusConsole\Client\Client\Client\bin\Debug\Client.exe.config
+E:\My Application\SRGeniusConsole\Client\Client\Client\obj\Debug\Client.exe
+E:\My Application\SRGeniusConsole\Client\Client\Client\obj\Debug\Client.pdb

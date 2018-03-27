@@ -39,15 +39,14 @@ namespace Server
             p.StartInfo.RedirectStandardOutput = true;
             p.StartInfo.RedirectStandardError = true;
             p.StartInfo.CreateNoWindow = false;
-            //可以设置IP地址范围
             for (int i = 100; i <= 115; i++ )
             {
                 p.Start();
-                p.StandardInput.WriteLine("Ping 192.168.1."+i+"\nexit");
+                p.StandardInput.WriteLine("arp -a 192.168.1."+i+"\nexit");
                 p.StandardInput.AutoFlush = true;
                 p.WaitForExit();
                 String msg = p.StandardOutput.ReadToEnd();
-                if (!msg.Contains("无法访问目标主机") && !msg.Contains("超时"))
+                if (!msg.Contains("未找到 ARP 项"))
                 {
                     ips.Add(IPAddress.Parse("192.168.1." + i));
                 }

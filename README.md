@@ -14,4 +14,4 @@
 > * 这也是我灵感闪现写出来的，代码还有比较大的架构提升空间，欢迎探讨~
 
 ## Screen Shots
-![](http://xxx.fishc.com/album/201803/26/173309j5xddyopmhccg5dz.png)
+![](http://xxx.fishc.org/album/201803/26/173309j5xddyopmhccg5dz.png)
